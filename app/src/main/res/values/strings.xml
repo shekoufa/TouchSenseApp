@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TouchSense</string>
+    <string name="title_home">Training</string>
+    <string name="title_dashboard">Test</string>
+</resources>
